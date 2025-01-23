@@ -1,0 +1,15 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    padding: 0 2px;
+    width: 100%;
+}
+
+.contact h1{
+    margin: 0;
+}
+
+.contact p{
+    font-size: 12px;
+
+}

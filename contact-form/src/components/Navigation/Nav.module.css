@@ -1,0 +1,22 @@
+.nav img{
+    height: 6rem;
+    width: 6rem;
+  }
+  
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 1rem;
+    margin: 0 auto;
+  }
+  
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 10px;
+  }
+  
+nav li{
+    background-color: lightgrey;
+  }
